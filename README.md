@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm David 👋
+---
 
-<!--
-**davidgamero/davidgamero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer based in Atlanta, GA.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently interning with awesome folks at **3M Health Information Systems**
+- ⚙️ I use daily: `.js`, `.java`, `.ts`, `.sql`, `.html`, `.scss`, `.svg`, `.json`, `.yml`
+- 🌱 Learning more about and studying: **AWS, Open Source, Next.js, CS Algorithms**
+- 💬 Ping me about: **Blockchain**, **Gatsby**, **memes**, **Electric Guest**
+- 📫 Reach me asap: davidgamero@gatech.edu
+- 💙 Interests: cryptocurrency enthusiast, music lover, bubble tea consumer
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
+- 🌐 Updating my personal website with examples of my work on <a href="http://davidgamero.com">DavidGamero.com</a>
+
+
+---
+
+⭐️ Thanks for the README Format [MillyCodes](https://github.com/MillyCodes)
