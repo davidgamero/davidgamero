@@ -4,7 +4,7 @@
 #### I'm a Full-Stack Developer based in Atlanta, GA.
 
 - 🏢 I'm currently working with awesome folks at **Microsoft**
-- ⚙️ I use daily: `.go`,`.js`, `.java`, `.ts`, `.sql`, `.html`, `.scss`, `.svg`, `.json`, `.yml`
+- ⚙️ I use daily: `.go`,`.js`, `.ts`,`.yml`
 - 🌱 Learning more about and studying: **Azure, AWS, Open Source, Next.js, CS Algorithms**
 - 💬 Ping me about: **Blockchain**, **Gatsby**, **Memes**, **Electric Guest**
 - 📫 Reach me asap: davidgamero@gatech.edu
