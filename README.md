@@ -1,7 +1,7 @@
 ## david
 
-### dev @ msft 📎
-k8s and ai
+### dev @ msft oss 📎
+k8s, ai, and devops
 
 working in go yaml ts
 
