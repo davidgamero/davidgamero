@@ -1,13 +1,11 @@
-### Hi, I'm David 👋
----
+## david
 
-#### I'm a Full-Stack Developer 
-```
-🟥🟩 I'm at Microsoft
-🟦🟨 writing go, yaml and ts
-```
+### dev @ msft 📎
+k8s and ai
 
-I'm also interested in:
-- 🎧 Music (collecting, ipod classic modding, discovering)
-- 🌐 Web Dev (svelte, react)
-- 🖥️ Dev Tools (custom keyboards, zmk, nvim, tmux)
+working in go yaml ts
+
+i'm also interested in:
+- 🎧 music (collecting, ipod classic modding rockbox, discovering)
+- 🌐 web dev (svelte, react)
+- 🖥️ dev tools (custom keyboards, zmk, nvim, tmux)
